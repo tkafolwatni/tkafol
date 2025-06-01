@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+  direction: rtl;
+}
+html[lang='en'] body {
+  direction: ltr;
+}
